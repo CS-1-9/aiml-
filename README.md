@@ -1,4 +1,4 @@
-📘 AI & ML with Python – IBM Course (3rd Semester)
+## 📘 AI & ML with Python – IBM Course (3rd Semester)
 
 This repository contains learning materials and practice programs related to Artificial Intelligence and Machine Learning using Python, based on the IBM AIML course as part of my 3rd semester studies.
 
